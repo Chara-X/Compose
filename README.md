@@ -147,7 +147,3 @@ public partial class MainWindow
     }
 }
 ```
-
-## Links
-
-* [Azure Repos](1)
