@@ -1,0 +1,20 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+@for (var i = 0; i < _currentCount; i++)
+{
+    <Counter/>
+}
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+@code
+{
+    private int _currentCount;
+
+    private void IncrementCount() => _currentCount++;
+}
