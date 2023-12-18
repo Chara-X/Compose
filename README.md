@@ -94,7 +94,7 @@ internal class Counter : IComposable
 </ResourceDictionary>
 ```
 
-![img](http://www.kdocs.cn/api/v3/office/copy/L0FFOE1DQUprZ01Pb3p4VWZobEZ6TEU3MVlCb0xFV0llZzlodzdSeVRpc01YUXpsWGJPenEwbVV3bHg3UGxqVXdRL1F2K1dpSWtOcDFReDRaYlhSdmZCQzhhd2NnY2FvUU9HTUxuL1V6L3VnUEx6UjRhalpTWGpFRW1tWTJ6WEFzOEVSK25GSU4wOWt4UCtkWHVuc0ZSSW5YK2dLY3ZDemVJQ3NERmRjZmRidkxkV2dKOURSMWpITi9QZzlFc2JtVmVpRHBwc1M4M3dTVHpVaGFtaE1UNWJpLytVRkhXS2dTcmVUSDc3Rlg3Z0xtT3VYWGh1VVdlRmlRN0lzZHdkb3lYYkxSVFFrek84PQ==/attach/object/GXJIUBIAYE?)
+![img](https://gitee.com/chara-x/resources/raw/master/Images/Compose/%E5%B1%8F%E5%B9%95%E5%BD%95%E5%88%B6%202023-12-13%20124833%5B00h00m00s-00h00m11s%5D.gif)
 
 ## Navigation & Dependency injection
 
