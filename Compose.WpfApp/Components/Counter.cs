@@ -20,11 +20,11 @@ internal class Counter : IComposable
     public UIElement Compose()
     {
         _stackPanel.SetChildren(
-            // 数据绑定
+            // Data binding
             new TextBlock { Text = "Count：" + _value },
-            // 事件绑定
+            // Event binding
             new Button { Content = "Add" }.Configure(x => x.Click += (_, _) => _valueChanged(++_value)),
-            // 双向绑定
+            // Two-way binding
             _textBox.Configure(x =>
             {
                 x.Text = _value.ToString();
