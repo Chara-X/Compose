@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Compose", "Compose\Compose.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Compose.WpfApp", "Compose.WpfApp\Compose.WpfApp.csproj", "{55F8B168-292C-49F9-8607-3A37333EF94A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compose.BlazorApp", "Compose.BlazorApp\Compose.BlazorApp.csproj", "{C7397654-1C49-46CD-8855-D1558B5EBF20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Compose.BlazorApp", "Compose.BlazorApp\Compose.BlazorApp.csproj", "{C7397654-1C49-46CD-8855-D1558B5EBF20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
